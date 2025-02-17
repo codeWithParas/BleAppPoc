@@ -21,7 +21,6 @@ import androidx.navigation.NavController
 fun StartScreen(
     navController: NavController
 ) {
-
     Box(
         modifier = Modifier.fillMaxSize(),
         contentAlignment = Alignment.Center
